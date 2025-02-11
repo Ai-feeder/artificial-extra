@@ -1,3 +1,4 @@
 # requirement
 
 !pip install numpy
+!pip install websocket
